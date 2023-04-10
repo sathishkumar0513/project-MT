@@ -1,7 +1,7 @@
 /\*\*
 
-- @author Shri Nandhini J R
-- @email shrinandhini2801@gmail.com
+- @author sathish kumar G
+- @email sathishspark513@gmail.com
   \*/
 
 # mern_banking_solution
